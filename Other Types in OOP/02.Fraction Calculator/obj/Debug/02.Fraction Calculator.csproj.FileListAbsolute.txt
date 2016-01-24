@@ -1,0 +1,6 @@
+D:\VisualStudio\OOP\Other Types in OOP\02.Fraction Calculator\bin\Debug\02.Fraction Calculator.exe.config
+D:\VisualStudio\OOP\Other Types in OOP\02.Fraction Calculator\bin\Debug\02.Fraction Calculator.exe
+D:\VisualStudio\OOP\Other Types in OOP\02.Fraction Calculator\bin\Debug\02.Fraction Calculator.pdb
+D:\VisualStudio\OOP\Other Types in OOP\02.Fraction Calculator\obj\Debug\02.Fraction Calculator.csprojResolveAssemblyReference.cache
+D:\VisualStudio\OOP\Other Types in OOP\02.Fraction Calculator\obj\Debug\02.Fraction Calculator.exe
+D:\VisualStudio\OOP\Other Types in OOP\02.Fraction Calculator\obj\Debug\02.Fraction Calculator.pdb

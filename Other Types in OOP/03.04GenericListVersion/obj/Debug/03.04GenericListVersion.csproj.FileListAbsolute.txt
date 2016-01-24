@@ -1,0 +1,6 @@
+D:\SoftUni\VisualStudio\OOP\Other Types in OOP\03.04GenericListVersion\bin\Debug\03.04GenericListVersion.exe.config
+D:\SoftUni\VisualStudio\OOP\Other Types in OOP\03.04GenericListVersion\obj\Debug\03.04GenericListVersion.csprojResolveAssemblyReference.cache
+D:\SoftUni\VisualStudio\OOP\Other Types in OOP\03.04GenericListVersion\bin\Debug\03.04GenericListVersion.exe
+D:\SoftUni\VisualStudio\OOP\Other Types in OOP\03.04GenericListVersion\bin\Debug\03.04GenericListVersion.pdb
+D:\SoftUni\VisualStudio\OOP\Other Types in OOP\03.04GenericListVersion\obj\Debug\03.04GenericListVersion.exe
+D:\SoftUni\VisualStudio\OOP\Other Types in OOP\03.04GenericListVersion\obj\Debug\03.04GenericListVersion.pdb

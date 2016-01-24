@@ -1,0 +1,9 @@
+D:\VisualStudio\OOP\Other Types in OOP\01.Galactic GPS\bin\Debug\01.Galactic GPS.exe.config
+D:\VisualStudio\OOP\Other Types in OOP\01.Galactic GPS\bin\Debug\01.Galactic GPS.exe
+D:\VisualStudio\OOP\Other Types in OOP\01.Galactic GPS\bin\Debug\01.Galactic GPS.pdb
+D:\VisualStudio\OOP\Other Types in OOP\01.Galactic GPS\obj\Debug\01.Galactic GPS.csprojResolveAssemblyReference.cache
+D:\VisualStudio\OOP\Other Types in OOP\01.Galactic GPS\obj\Debug\01.Galactic GPS.exe
+D:\VisualStudio\OOP\Other Types in OOP\01.Galactic GPS\obj\Debug\01.Galactic GPS.pdb
+D:\SoftUni\VisualStudio\OOP\Other Types in OOP\01.Galactic GPS\bin\Debug\01.Galactic GPS.exe.config
+D:\SoftUni\VisualStudio\OOP\Other Types in OOP\01.Galactic GPS\obj\Debug\01.Galactic GPS.exe
+D:\SoftUni\VisualStudio\OOP\Other Types in OOP\01.Galactic GPS\obj\Debug\01.Galactic GPS.pdb
